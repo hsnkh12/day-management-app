@@ -18,9 +18,6 @@ It's used to manage your day. Including your tasks, goals, wallet, and calories.
 ## Installation
 
 Clone git repo.
-```
- git clone https://github.com/hsnkh12/day-management-app-rest-api.git
-```
 Create your python virtual environment.
 ```
 python3 -m venv env
@@ -42,5 +39,20 @@ Python3 manage.py runserver
 
 ### Home page
 ![Home page](images/dma1.jpeg)
+
+### To-Do tasks page
+![To-Do tasks page](images/dma2.jpeg)
+
+### Create To-Do form page
+![Create To-Do form page](images/dma3.jpeg)
+
+### Expenses page
+![Expenses page](images/dma4.jpeg)
+
+### Day calories page
+![Day calories page](images/dma5.jpeg)
+
+### Notes page
+![Notes page](images/dma7.jpeg)
 
 
